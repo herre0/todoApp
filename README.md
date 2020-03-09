@@ -1,1 +1,1 @@
-Angular js ile basit front end uygulaması
+Angular js ile basit front end uygulaması taco
